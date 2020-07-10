@@ -6,4 +6,5 @@ def meal_choice(veg1, veg2, protein = 'tofu')
   meal_choice
 end
 
+meal_choice
 meal_choice('veg1', 'veg2')
